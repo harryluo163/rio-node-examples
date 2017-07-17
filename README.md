@@ -14,3 +14,7 @@ node t3
 2.安装Rserve
 3.启动R服务端
 同样支持远程调用
+
+介绍看
+
+http://blog.csdn.net/q3585914/article/details/75258103
